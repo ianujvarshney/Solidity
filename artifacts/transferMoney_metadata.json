@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Transfermoney.sol": "transferMoney"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Transfermoney.sol": {
+			"keccak256": "0x394d0dd20f2189f3bdc5f37a61e64d97b25289db56b30a141ef16fb1b0ebaae1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://913bfb0fd5087b499d97c67b352d8e0a80a4dbb3c5ec3bbb091564ddd354dc02",
+				"dweb:/ipfs/QmbihgCqA5zY3C8HL2BcBmRB1xv8S9RaL79BLDRPHDoStK"
+			]
+		}
+	},
+	"version": 1
+}

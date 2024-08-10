@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"hotalManagement.sol": "hotelManagement"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"hotalManagement.sol": {
+			"keccak256": "0x96e8cacb73ac4ec4d5554f99e9ffa6e8b77e256466d0e683f15272298df6c2a0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3c292a680e04fac0c5ffd80385ba57db7b2857ebcbd343722074c6b24ceb56d9",
+				"dweb:/ipfs/QmaLtttSh88oV26rbFP2MPxhXnARb3ZL7xwHxTujiUT4Ph"
+			]
+		}
+	},
+	"version": 1
+}

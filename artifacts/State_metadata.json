@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "store",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"state.sol": "State"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"state.sol": {
+			"keccak256": "0x7443b0274bc140c3c924521b2c909477256cc1fc019d636fbf002981e35b448d",
+			"urls": [
+				"bzz-raw://d6ec2dab542dbc703802df06d4530f63f7af34a520cbfe9e582739a08ea5563b",
+				"dweb:/ipfs/QmUH16gnRCpvesPmZ4iyh53yhaEZJsS8Vfn2R5Ak1CrQJu"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "book",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"hotalManagement.sol": "Hotel"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"hotalManagement.sol": {
+			"keccak256": "0x9bd3663fe14ab85d66937712d69cf98547187f3f36a9f63be89c33821734013d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d12313f85d2f06dac066c580c842c31d42fe70e508a1b9d1c8b1901e2782cbf5",
+				"dweb:/ipfs/QmX9KXod2BqfW4a4h9e1RB2XPq46sKhRwoAs9Q9hUVtdRN"
+			]
+		}
+	},
+	"version": 1
+}
