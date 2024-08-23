@@ -67,11 +67,11 @@
 	},
 	"sources": {
 		"TransferMoneys.sol": {
-			"keccak256": "0x6c916958aead2a581deb80f046c23dff1e380e61f652ba36bd4ffc3edb8221d4",
+			"keccak256": "0x7bed8aa6b037199cc3eec6d42fabcbf35ea6e6c5ffe1d71356a48bc6a7a7a675",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ef614efca1b7afdbf7a71a9a0451f857655d8aeb1c83fa7b3e48f6cceb26c9c0",
-				"dweb:/ipfs/QmSFicHtrMbKMxytEjf4B2yJmBiVUyK67YkquWAbDd9trp"
+				"bzz-raw://cf6519332685de6eaa9ca2be4e0aae2e4b931c94aae2e800bedf9e1eaca464d3",
+				"dweb:/ipfs/QmZN64CAueiY7wVCksXikypKR7d8uPLJrYcFe3vaNvwPLa"
 			]
 		}
 	},

@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.0+commit.c7dfd78e"
+		"version": "0.6.12+commit.27d51765"
 	},
 	"language": "Solidity",
 	"output": {
@@ -19,7 +19,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"a.sol": "SafeMath"
+			"forsage.sol": "SafeMath"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -33,12 +33,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"a.sol": {
-			"keccak256": "0xabaf4a20c88911db6591d7264e454f11547305f6c1c3bb2f26003ae496a3f3aa",
+		"forsage.sol": {
+			"keccak256": "0x3974619ea082151ec62138a54851dad625ddb3c2224baea6142876ca0600cac3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9bb9ed1048cbf5a6933a1bb6654003e647be4f1399b8e10c0f3df6d4b045f43d",
-				"dweb:/ipfs/QmQTRdXjnVytNbefWY1whtPKbXGXobDVH5e4BHGHbwCmUW"
+				"bzz-raw://a553900efec072c0ccbb8f5083ebdf312b75c1ef47528629b1cf294b98107203",
+				"dweb:/ipfs/QmXsDSstnjTVADrrJkbAZMki3cx3k22X16yyn48nHcdC1A"
 			]
 		}
 	},
